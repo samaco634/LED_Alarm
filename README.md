@@ -2,7 +2,7 @@
 Daily Alarm : 09:00 LED on
               19:00 LED off
               
-Library you need :  RtcLib by adafruit, Adafruit NeoPixel by adafruit, TimeAlarms by Michael Margolis, Time by Michael Margolis
+### Library you need :  RtcLib by adafruit, Adafruit NeoPixel by adafruit, TimeAlarms by Michael Margolis, Time by Michael Margolis
               
 ![image](https://user-images.githubusercontent.com/72288990/167880642-894ebdc5-b855-4173-b51e-b82551300e9c.png)
 ---------------------------------------------------------------------------------------------------------------
