@@ -1,6 +1,6 @@
 # LED_Alarm
-Daily Alarm : 09:00 LED on
-              19:00 LED off
+### Daily Alarm : 09:00 LED on
+###               19:00 LED off
               
 ### Library you need :  RtcLib by adafruit, Adafruit NeoPixel by adafruit, TimeAlarms by Michael Margolis, Time by Michael Margolis
               
